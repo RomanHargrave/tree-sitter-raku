@@ -1,6 +1,9 @@
 Tree-Sitter Lexer for Raku
 ==========================
 
+**This is a work in progress. The actual implementation, particularly
+the scanner, is due to change drastically as it is realized.**
+
 This is an *investigatory* implementation of a Raku grammar sufficient
 for syntax highlighting and indentation in most editors, particularly
 Emacs.
