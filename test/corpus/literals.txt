@@ -1,0 +1,14 @@
+===============
+Version Literal
+===============
+
+v1
+v1.2
+v*
+v1.*
+v1.a
+v1a
+
+---
+
+(comp_unit (version))

@@ -1,0 +1,14 @@
+{
+  "name": "tree-sitter-raku",
+  "version": "1.0.0",
+  "description": "tree-sitter grammar for raku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Hargrave <roman@hargrave.info>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "tree-sitter-cli": "^0.20.0"
+  }
+}
